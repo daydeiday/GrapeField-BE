@@ -152,7 +152,6 @@
 ### [2. 요구사항 정의서](https://docs.google.com/spreadsheets/d/1lH3kFL2whL5Pu4R99AMO2kA6stfM88ZQs0zwe05mVwA/edit?usp=sharing)
 ### [3. WBS](https://docs.google.com/spreadsheets/d/18U7T2FRrp6uOwkVXoEHOKjuOz3vogf99nwD2UxC60iU/edit?usp=sharing)
 ### [4. API명세서](https://grapefield.kro.kr/api/swagger-ui/index.html)
-
 <details>
 <summary><h3>5. ERD</h3></summary>
 <img src="https://github.com/user-attachments/assets/99f2f0c5-be39-4334-9f80-ccee14b906b9">
