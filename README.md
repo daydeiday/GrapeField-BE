@@ -97,7 +97,7 @@
 #### - 통합적인 문화행사 정보 제공 서비스
 코로나 팬데믹 이후 오프라인 공연 및 전시회에 대한 수요가 급증하면서 관련 행사들이 활발히 개최되고 있다. 특히 기업, 기관의 홍보 담당자들은 브랜드 홍보 및 고객 접점을 확대하기 위한 전략으로 공연이나 박람회와 같은 오프라인 행사를 적극적으로 유치하거나 후원하고 있다.<br>
 <p align="middle" style="margin: 0; padding: 0;">
-	<img width="60%"  src="https://github.com/user-attachments/assets/06ca5c9b-b170-4dda-8c65-f990135127bc">
+	<img width="50%"  src="https://github.com/user-attachments/assets/06ca5c9b-b170-4dda-8c65-f990135127bc">
 </p>
 
 그러나 기존 정보는 개별 사이트나 SNS를 통해 확인해야 하며, 후기를 확인하거나 공유하는 과정이 번거롭다.  
